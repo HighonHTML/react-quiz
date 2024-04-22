@@ -1,5 +1,5 @@
 function Header() {
-  const logo = './public/logo192.png'
+  const logo = './../public/logo192.png'
   return (
     <header className='app-header'>
       <img src={logo} alt='React logo' />

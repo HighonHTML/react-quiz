@@ -1,4 +1,4 @@
-function Main({children}){
+function Content({children}){
     return (
      <main className="main">
         {children}
@@ -6,4 +6,4 @@ function Main({children}){
     )
 }
 
-export default Main
+export default Content
